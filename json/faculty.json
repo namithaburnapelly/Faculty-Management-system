@@ -1,0 +1,196 @@
+{
+    "profile": {
+        "id": "20F81A0510",
+        "fname": "Leanne Graham",
+        "email": "Sincere@april.biz",
+        "address": {
+            "state": "Telangana",
+            "district": "Rangareddy",
+            "street": "Kulas Light",
+            "hno": "Apt. 556",
+            "city": "Gwenborough",
+            "pincode": "500020"
+        },
+        "designation": "professor",
+        "phone": "9876543210",
+        "gender": "male",
+        "dob": "24-12-1975",
+        "adhar": "850902492601",
+        "pan": "HJ3409384",
+        "image": "./img/profile.jpg"
+    },
+    "wexperience": [
+        {
+            "designation1": "Professor",
+            "organisation": "CVR College of Engg.",
+            "nature_of_work": "teaching",
+            "duration": "Sept 2017 - present",
+            "work_exp": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "subjects": "WT,WE",
+            "exp_doc": "./img/profile.jpg"
+        },
+        {
+            "designation1": "HOD",
+            "organisation": "JNTU",
+            "nature_of_work": "Administration",
+            "duration": "Oct 1999 - sept 2017",
+            "work_exp": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "subjects": "SE",
+            "exp_doc": "./img/profile.jpg"
+        },
+        {
+            "designation1": "Lecturer",
+            "organisation": "OU",
+            "nature_of_work": "Teaching",
+            "duration": "Oct 2002 - sept 2009",
+            "work_exp": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.",
+            "subjects": "Chemistry",
+            "exp_doc": "./img/profile.jpg"
+        }
+    ],
+    "awards": [
+        {
+            "aname": "Faculty of the year",
+            "year_aw": "23 Apr 2017",
+            "institute": "CVR Coleege of Engineering"
+        },
+        {
+            "aname": "Faculty of the year",
+            "year_aw": "23 Apr 2017",
+            "institute": "CVR Coleege of Engineering"
+        },
+        {
+            "aname": "Faculty of the year",
+            "year_aw": "23 Apr 2017",
+            "institute": "CVR Coleege of Engineering"
+        }
+    ],
+    "edu": [
+        {
+            "heading": "SSC",
+            "Oname": "S.R. Digi School",
+            "year": "March 2018",
+            "Board": "SSC",
+            "percentage": "97",
+            "eduDoc": "./img/profile.jpg"
+        },
+        {
+            "heading": "Intermediate",
+            "Oname": "Narayana Junior College",
+            "year": "Feb 2020",
+            "Board": "Intermediate State Borad",
+            "percentage": "87",
+            "eduDoc": "./img/profile.jpg"
+        },
+        {
+            "heading": "UG",
+            "Oname": "CVR college of Eng.",
+            "year": "March 2024",
+            "Board": "JNTU",
+            "percentage": "75",
+            "eduDoc": "./img/profile.jpg"
+        },
+        {
+            "heading": "PG",
+            "Oname": "IIT Hyd",
+            "year": "March 2026",
+            "Board": "PG Board",
+            "percentage": "67",
+            "eduDoc": "./img/profile.jpg"
+        }
+    ],
+    "all": [
+        {
+            "jpublication": [
+                {
+                    "jid": 1,
+                    "jname": "Deck Soft",
+                    "jvolno": "1",
+                    "issn": "0000-0000",
+                    "publisher": "Divya",
+                    "article_title": "Human values",
+                    "pub_year": "2022",
+                    "page_nos": "999",
+                    "jimage": "img/portfolio/p-1.jpg"
+                },
+                {
+                    "jid": 2,
+                    "jname": "Nmaitha",
+                    "jvolno": "1",
+                    "issn": "0000-0000",
+                    "publisher": "Divya",
+                    "article_title": "Human values",
+                    "pub_year": "2022",
+                    "page_nos": "999",
+                    "jimage": "img/portfolio/p-2.jpg"
+                },
+                {
+                    "jid": 3,
+                    "jname": "lsdf Soft",
+                    "jvolno": "1",
+                    "issn": "0000-0000",
+                    "publisher": "Divya",
+                    "article_title": "Human values",
+                    "pub_year": "2022",
+                    "page_nos": "999",
+                    "jimage": "img/portfolio/p-3.jpg"
+                }
+            ]
+        },
+        {
+            "book": [
+                {
+                    "j_id": "boook",
+                    "title": "Deck Soft",
+                    "isbn": "0000-0000",
+                    "book_publisher": "Divya",
+                    "volume": "I",
+                    "pgnos": "399",
+                    "book_image": "img/portfolio/p-4.jpg"
+                },
+                {
+                    "j_id": "boook",
+                    "title": "Deck Soft",
+                    "isbn": "0000-0000",
+                    "book_publisher": "Divya",
+                    "volume": "I",
+                    "pgnos": "399",
+                    "book_image": "img/portfolio/p-5.jpg"
+                },
+                {
+                    "j_id": "boook",
+                    "title": "Deck Soft",
+                    "isbn": "0000-0000",
+                    "book_publisher": "Divya",
+                    "volume": "I",
+                    "pgnos": "399",
+                    "book_image": "img/portfolio/p-6.jpg"
+                }
+            ]
+        },
+        {
+            "RnD": [
+                {
+                    "j_id": "rd",
+                    "pro_title": "Chemistry",
+                    "pro_duration": "6 months",
+                    "cost": "9000",
+                    "str_date": "2-12-2022",
+                    "end_date": "3-6-2023",
+                    "status": "Under Prcess",
+                    "res_img": "img/portfolio/p-7.jpg"
+                },
+                {
+                    "j_id": "rd",
+                    "pro_title": "Chemistry",
+                    "pro_duration": "6 months",
+                    "cost": "9000",
+                    "str_date": "2-12-2022",
+                    "end_date": "3-6-2023",
+                    "status": "Under Prcess",
+                    "res_img": "img/portfolio/p-8.jpg"
+                }
+            ]
+        }
+    ]
+}
